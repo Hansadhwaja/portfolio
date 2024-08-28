@@ -97,7 +97,7 @@ export const skills = [
 
 export const experiences = [
     {
-        title: "Full Stack Developer",
+        title: "Full Stack Developer-Intern",
         company_name: "NullClass",
         icon: nullClass,
         iconBg: "#accbe1",
@@ -176,7 +176,7 @@ export const projects = [
     },
     {
         iconUrl: adviceapp,
-        theme: 'btn-back-black',
+        theme: 'btn-back-green',
         name: 'Advice App',
         description: 'Developed a web application which gives random advice to people.',
         link: 'https://advice-app-alpha-ten.vercel.app',
