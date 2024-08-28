@@ -47,7 +47,7 @@ const Contact = () => {
     ).then(() => {
       setIsLoading(false);
       showAlert({
-        show: true, 
+        show: true,
         text: 'Message sent successfully!',
         type: 'success'
       });
@@ -62,7 +62,7 @@ const Contact = () => {
       setCurrentAnimation('idle');
       console.log(error);
       showAlert({
-        show: true, 
+        show: true,
         text: "I didn't receive your message",
         type: 'danger'
       });
@@ -72,8 +72,8 @@ const Contact = () => {
   return (
     <section className='relative flex lg:flex-row flex-col
   max-container h-[100vh]'>
-  {alert.show && <Alert {...alert}/>}
- 
+      {alert.show && <Alert {...alert} />}
+
       <div className='flex-1 min-w-[50%] flex flex-col'>
         <h1 className='head-text'>Get in Touch</h1>
         <form
