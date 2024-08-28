@@ -1,4 +1,4 @@
-import { NullClass } from "../assets/images";
+import { nullClass } from "../assets/images";
 import {
     car,
     movie,
@@ -99,7 +99,7 @@ export const experiences = [
     {
         title: "Full Stack Developer",
         company_name: "NullClass",
-        icon: NullClass,
+        icon: nullClass,
         iconBg: "#accbe1",
         date: "May 2024 - June 2024",
         points: [
