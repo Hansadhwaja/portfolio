@@ -1,4 +1,4 @@
-import { nullclass } from "../assets/images";
+import { nullclass } from "../assets/images/index.js";
 import {
     car,
     movie,
