@@ -1,15 +1,14 @@
-import { nullclass } from "../assets/images/index.js";
+import  nullclass  from "../assets/images/nullclass.png";
+
 import {
     car,
     movie,
     adviceapp,
     nike,
     gofood,
-    tindog,
     keeper,
     contact,
     css,
-    estate,
     express,
     git,
     github,
@@ -17,19 +16,13 @@ import {
     javascript,
     linkedin,
     mongodb,
-    motion,
     mui,
     nextjs,
     nodejs,
-    pricewise,
     react,
-    redux,
-    sass,
-    snapgram,
     summiz,
     tailwindcss,
     threads,
-    typescript
 } from "../assets/icons";
 
 export const skills = [
