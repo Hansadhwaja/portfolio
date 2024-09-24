@@ -1,4 +1,4 @@
-import  nullclass  from "../assets/images/nullclass.png";
+import  nullclass  from '../assets/images/NullClass.png';
 
 import {
     car,
