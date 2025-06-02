@@ -32,6 +32,12 @@ import nike from './nike.svg'
 import gofood from './gofood.svg'
 import tindog from './tindog.svg'
 import keeper from './keeper.svg'
+import rails from './rails.svg'
+import shadcn from './shadcn.svg'
+import animevalult from './animevault.svg'
+import promptopia from './promptopia.svg'
+import travel from './Travel.svg'
+import yoom from './Yoom.svg'
 
 export {
     css,
@@ -67,5 +73,11 @@ export {
     arrow,
     contact,
     soundon,
-    soundoff
+    soundoff,
+    rails,
+    shadcn,
+    animevalult,
+    promptopia,
+    travel,
+    yoom
 }

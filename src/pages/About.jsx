@@ -14,8 +14,7 @@ const About = () => {
       </h1>
 
       <div className='mt-5 flex flex-col gap-3 text-slate-500'>
-        <p>Web Devloper based in India,
-          specializing in building MERN stack applications.</p>
+        <p>Web Developer based in India, specializing in crafting modern, full-stack applications using the MERN stack (MongoDB, Express, React, Node.js). Passionate about building responsive, user-focused web experiences.</p>
       </div>
       <div className='py-10 flex flex-col'>
         <h3 className='subhead-text'>My Skills</h3>
@@ -38,8 +37,7 @@ const About = () => {
       <div className='py-16'>
         <h3 className='subhead-text'>Work Experience</h3>
         <div className='mt-5 flex flex-col gap-3 text-slate-500'>
-          <p>I want to work with all sorts of companies, to level up my
-            skills and  to team up with smart people. Here's the rundown:</p>
+          <p>I want to work with all sorts of companies — startups, studios, or solo founders — to level up my skills and team up with smart people. I’ve completed two internships focused on MERN stack training, which helped me build a solid foundation in full-stack development. While I haven’t worked on live projects yet, I’ve spent time building my own apps, exploring new tools, and learning how real-world development works. Here’s the rundown:</p>
         </div>
         <div className='mt-12 flex'>
           <VerticalTimeline>
